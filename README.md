@@ -1,5 +1,5 @@
-# Advent of Code (:2024)
-C++ implementation of the adventofcode problems
+# Advent of Code
+C++ implementation of the adventofcode puzzles
 
 _published only after leaderboard get's fulled_
 
