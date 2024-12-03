@@ -2,8 +2,8 @@
 C++ implementation of the adventofcode puzzles
 
 ```
-	Paste the input in input.txt, and the output of the program will be printed in output.txt file.
-	The input to be read from input.txt file.
+	Paste the input in input.txt. Input to be read from input.txt file.
+	The output of the program will be printed in output.txt file.
 
 	#ifndef ONLINE_JUDGE
 	freopen("./input.txt","r",stdin);
